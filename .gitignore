@@ -1,0 +1,12 @@
+#Exclude the .htaccess file
+.htaccess
+
+*.psd
+*.ai
+
+.DS_Store
+*.txt
+
+!README.txt
+
+*.log
